@@ -1,4 +1,4 @@
-# 1. create an emty list caled my_list
+# 1. create an empty list called my_list
 my_list =[]
 
 #2. append the following elements to my_list
